@@ -36,25 +36,25 @@ for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-trai
 | Shell01 | [subject.fr](./subjects/Shell01.pdf)    | [100%](./Shell01)  |
 | C00 | [subject.fr](./subjects/C00.pdf)  |[100%](./C00) | 
 | C01 | [subject.fr](./subjects/c01.pdf)  |[100%](./C01) | 
+| Exam00 | [subject](./EXAM00/exam00.txt)  |[solution](./EXAM00) | 
+| Rush00 | [subject.fr](./subjects/Rush00.pdf)  |[120%](./Rush00) | 
 | C02 | [subject.fr](./subjects/c02.pdf)  |[100%](./C02) | 
 | C03 | [subject.fr](./subjects/c03.pdf)  | [100%](./C03) | 
 | C04 | [subject.fr](./subjects/C04.pdf)  | [100%](./C04)| 
 | C05 | [subject.fr](./subjects/C05.pdf)   | [80%](./C05)| 
+| Exam01 | [subject](./EXAM01/EXAM01.txt)  |[solution](./EXAM01) | 
+| Rush01 | [subject.fr](./subjects/rush01.pdf)  | | 
 | C06 | [subject.fr](./subjects/C06.pdf)   |[100%](./C06) | 
 | C07 | [subject.fr](./subjects/C07.pdf)  | [100%](./C07)| 
 | C08 | [subject.fr](./subjects/c08.pdf)  |[100%](./C08) |
 | C09 | [subject.fr](./subjects/c09.pdf)  | [100%](./C09)| 
+| Exam02 | [subject](./EXAM02/exam02.txt)  |[solution](./EXAM02) | 
+| Rush02 |  [subject.fr](./subjects/rush02.pdf) | | 
+| BSQ | [subject.fr](./subjects/bsq.pdf)  | | 
 | C10 | [subject.fr](./subjects/c10.pdf)  | | 
 | C11 | [subject.fr](./subjects/c11.pdf)  |[100%](./C11) | 
 | C12 | [subject.fr](./subjects/C12.pdf)  | | 
 | C13 | [subject.fr](./subjects/c13.pdf)  | | 
-| Exam00 | [subject](./EXAM00/exam00.txt)  |[solution](./EXAM00) | 
-| Exam01 | [subject](./EXAM01/EXAM01.txt)  |[solution](./EXAM01) | 
-| Exam02 | [subject](./EXAM02/exam02.txt)  |[solution](./EXAM02) | 
 | Exam03 | [subject](./EXAM03/EXAM.txt)  | [solution](./EXAM03)| 
-| Rush00 | [subject.fr](./subjects/Rush00.pdf)  |[120%](./Rush00) | 
-| Rush01 | [subject.fr](./subjects/rush01.pdf)  | | 
-| Rush02 |  [subject.fr](./subjects/rush02.pdf) | | 
-| BSQ | [subject.fr](./subjects/bsq.pdf)  | | 
  
 `Enjoy coding and GOOD LUCK in your piscine.`
