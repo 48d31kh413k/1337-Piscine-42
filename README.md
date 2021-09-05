@@ -1,13 +1,13 @@
 # READ THIS BEFOR YOU PASS THE EXAM <br/>
-### **-Logging into and setting up an exam** <br/>
+### **Logging into and setting up an exam** <br/>
 1-Login with exam / exam at the login screen <br/>
 2-Open a terminal and type kinit <username> and your password after the prompt <br />
 3-Type examshell in a terminal to begin <br /> 
-### **-During the exam** <br />
+### **During the exam** <br />
 1-Don't forget to clean up, comment, remove your testing code execs, and libraries prior to submission <br />
 2-Don't forget to push your code regularly in the rendu/<test question> directory to vogsphere before typing grademe and y in the examshell terminal <br />
 3-Read through all of the subjects and examples again before final submission <br />
-### **-Before Exams** <br />
+### **Before Exams** <br />
 1- You should Learn Functions Loops Condition Arrays  Strings before exam 00 <br />
 2- You should Learn argc & argv & malloc and free before exam01/exam02 <br />
 3- You Should Learn Makefile Library Header Pointers-Functions before final exam <br />
