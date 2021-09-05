@@ -1,4 +1,4 @@
-# 1337bg
+# 1337
  My solutions for the June Piscine 2021.
 # READ THIS BEFOR YOU PASS THE EXAM <br/>
 ### **Logging into and setting up an exam** <br/>
