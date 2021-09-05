@@ -18,7 +18,7 @@
 -validate Shell01 on weekend and work on this rush because is so easy. <br />
 **Week2:** C02, C03, C04, C06 <br />
 -it's better to validate C06 before C05, because the exam01 is on argc & argv. <br />
--Dont waste your time on rush01, it's better to work on your days and preare for exam on weekends and know your mistakes that you made on the previous exams. <br />
+-Dont waste your time on rush01, it's better to work on your days and prepare for exam on weekends and know your mistakes that you made on the previous exams. <br />
 **Week3:** C05, C07, C08, C09 <br />
 -try to improve your code skills and your algorithms. <br />
 **Week4:** C11 <br />
