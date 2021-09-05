@@ -44,7 +44,6 @@ for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-trai
 | C07 | [subject.fr](./subjects/C07.pdf)  | [100%](./C07)| 
 | C08 | [subject.fr](./subjects/c08.pdf)  |[100%](./C08) |
 | C09 | [subject.fr](./subjects/c09.pdf)  | [100%](./C09)| 
-| BSQ | [subject.fr](./subjects/bsq.pdf)  | | 
 | C10 | [subject.fr](./subjects/c10.pdf)  | | 
 | C11 | [subject.fr](./subjects/c11.pdf)  |[100%](./C11) | 
 | C12 | [subject.fr](./subjects/C12.pdf)  | | 
@@ -56,5 +55,6 @@ for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-trai
 | Rush01 | [subject.fr](./subjects/rush01.pdf)  | | 
 | Rush00 | [subject.fr](./subjects/Rush00.pdf)  |[120%](./Rush00) |
 | Rush02 |  [subject.fr](./subjects/rush02.pdf) | | 
+| BSQ | [subject.fr](./subjects/bsq.pdf)  | | 
  
 `Enjoy coding and GOOD LUCK in your piscine.`
