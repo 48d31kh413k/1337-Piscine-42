@@ -1,7 +1,7 @@
 # 1337
  My solutions for the June Piscine 2021. <br />
  `Don't Copy, Learn.`
-# READ THIS BEFOR YOU PASS THE EXAM <br/>
+# READ THIS BEFORE YOU PASS THE EXAM <br/>
 ### **Logging into and setting up an exam** <br/>
 1-Login with exam / exam at the login screen <br/>
 2-Open a terminal and type kinit <username> and your password after the prompt <br />
