@@ -53,8 +53,8 @@ for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-trai
 | Exam02 | [subject](./EXAM02/exam02.txt)  |[solution](./EXAM02) | 
 | Exam03 | [subject](./EXAM03/EXAM.txt)  | [solution](./EXAM03)| 
 | Rush00 | [subject.fr](./subjects/Rush00.pdf)  |[120%](./Rush00) | 
-| Rush01 |   | | 
-| Rush02 |   | | 
-| BSQ |   | | 
+| Rush01 | [subject.fr](./subjects/rush01.pdf)  | | 
+| Rush02 |  [subject.fr](./subjects/Rush02.pdf) | | 
+| BSQ | [subject.fr](./subjects/bsq.pdf)  | | 
  
 `Enjoy coding and GOOD LUCK in your piscine.`
