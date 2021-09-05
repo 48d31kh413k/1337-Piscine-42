@@ -31,5 +31,26 @@ for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-trai
 | --------------|------------  | ----------:|
 | Shell00 | | |
 | Shell01 |     |   |
-| C00 |   |    $1 | 
+| C00 |   | | 
+| C01 |   | | 
+| C02 |   | | 
+| C03 |   | | 
+| C04 |   | | 
+| C05 |   | | 
+| C06 |   | | 
+| C07 |   | | 
+| C08 |   | |
+| C09 |   | | 
+| C10 |   | | 
+| C11 |   | | 
+| C12 |   | | 
+| C13 |   | | 
+| Exam00 |   | | 
+| Exam01 |   | | 
+| Exam02 |   | | 
+| Exam03 |   | | 
+| Rush00 |   | | 
+| Rush01 |   | | 
+| Rush02 |   | | 
+| BSQ |   | | 
 >**Good luck in your piscine.**
