@@ -31,7 +31,7 @@ for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-trai
 `SLEEP WELL + EAT WELL = LIVE WELL + SUCCESS` <br />
  # Table of Content
 | Projects      | PDF          | Solutions  |
-| --------------|------------  | ----------:|
+| :--------------:|:------------:  | :----------:|
 | Shell00 | [subject.fr](./subjects/Shell00.pdf)|[100%](./Shell00) |
 | Shell01 | [subject.fr](./subjects/Shell01.pdf)    | [100%](./Shell01)  |
 | C00 | [subject.fr](./subjects/C00.pdf)  |[100%](./C00) | 
