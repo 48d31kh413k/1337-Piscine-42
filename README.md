@@ -25,7 +25,7 @@
 **Week4:** C11 <br />
 -don't waste your time on rush02 and BSQ and C10, it's better to validate the previous days with 100% and prepare for the final exam. <br />
 for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-training/ <br />
-`**SLEEP WELL + EAT WELL = LIVE WELL + SUCCESS**` <br />
+`SLEEP WELL + EAT WELL = LIVE WELL + SUCCESS` <br />
  # Table of Content
 | Projects      | PDF          | Solutions  |
 | --------------|------------  | ----------:|
@@ -54,4 +54,4 @@ for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-trai
 | Rush02 |   | | 
 | BSQ |   | | 
  
-`**Good luck in your piscine.**`
+`Good luck in your piscine.`
