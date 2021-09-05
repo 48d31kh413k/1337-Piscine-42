@@ -31,27 +31,27 @@ for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-trai
  # Table of Content
 | Projects      | PDF          | Solutions  |
 | --------------|------------  | ----------:|
-| Shell00 | [subject.fr](./subjects/Shell00.pdf)|[100%](./Shell00 |
-| Shell01 | [subject.fr](./subjects/Shell01.pdf)    | [100%](./Shell01  |
+| Shell00 | [subject.fr](./subjects/Shell00.pdf)|[100%](./Shell00) |
+| Shell01 | [subject.fr](./subjects/Shell01.pdf)    | [100%](./Shell01)  |
 | C00 | [subject.fr](./subjects/C00.pdf)  |[100%](./C00) | 
-| C01 | [subject.fr](./subjects/C01.pdf)  |[100%](./C01) | 
-| C02 | [subject.fr](./subjects/C02.pdf)  |[100%](./C02) | 
-| C03 | [subject.fr](./subjects/C03.pdf)  | [100%](./C03) | 
+| C01 | [subject.fr](./subjects/c01.pdf)  |[100%](./C01) | 
+| C02 | [subject.fr](./subjects/c02.pdf)  |[100%](./C02) | 
+| C03 | [subject.fr](./subjects/c03.pdf)  | [100%](./C03) | 
 | C04 | [subject.fr](./subjects/C04.pdf)  | [100%](./C04)| 
 | C05 | [subject.fr](./subjects/C05.pdf)   | [80%](./C05)| 
 | C06 | [subject.fr](./subjects/C06.pdf)   |[100%](./C06) | 
 | C07 | [subject.fr](./subjects/C07.pdf)  | [100%](./C07)| 
-| C08 | [subject.fr](./subjects/C08.pdf)  |[100%](./C08) |
-| C09 | [subject.fr](./subjects/C09.pdf)  | [100%](./C09)| 
-| C10 | [subject.fr](./subjects/C10.pdf)  | | 
-| C11 | [subject.fr](./subjects/C11.pdf)  |[100%](./C11) | 
-| C12 | [subject.fr](./subjects/C12.pdf)  | | 
-| C13 | [subject.fr](./subjects/C13.pdf)  | | 
-| Exam00 | [subject](./exam00/exam00.txt)  |[solution](./exam00) | 
-| Exam01 | [subject](./exam01/exam01.txt)  |[solution](./exam01) | 
-| Exam02 | [subject](./exam02/exam02.txt)  |[solution](./exam02) | 
-| Exam03 | [subject](./exam03/exam03.txt)  | [solution](./exam03)| 
-| Rush00 | [subject.fr](./subjects/RUSH00.pdf)  | | 
+| C08 | [subject.fr](./subjects/c08.pdf)  |[100%](./C08) |
+| C09 | [subject.fr](./subjects/c09.pdf)  | [100%](./C09)| 
+| C10 | [subject.fr](./subjects/c10.pdf)  | | 
+| C11 | [subject.fr](./subjects/c11.pdf)  |[100%](./C11) | 
+| C12 | [subject.fr](./subjects/c12.pdf)  | | 
+| C13 | [subject.fr](./subjects/c13.pdf)  | | 
+| Exam00 | [subject](./EXAM00/exam00.txt)  |[solution](./exam00) | 
+| Exam01 | [subject](./EXAM01/EXAM01.txt)  |[solution](./exam01) | 
+| Exam02 | [subject](./EXAM02/exam02.txt)  |[solution](./exam02) | 
+| Exam03 | [subject](./EXAM03/EXAM.txt)  | [solution](./exam03)| 
+| Rush00 | [subject.fr](./subjects/Rush00.pdf)  |[100%](./Rush00) | 
 | Rush01 |   | | 
 | Rush02 |   | | 
 | BSQ |   | | 
