@@ -31,7 +31,7 @@ for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-trai
  # Table of Content
 | Projects      | PDF          | Solutions  |
 | --------------|------------  | ----------:|
-| Shell00 | ./subjects/Shell00.pdf| |
+| Shell00 | [find](./subjects/Shell00.pdf)| |
 | Shell01 |     |   |
 | C00 |   | | 
 | C01 |   | | 
