@@ -1,0 +1,23 @@
+exam03 16exercices (6points pour chaque exercice, 10 points pour le dernier exercice)
+_____________________________
+0-aff_z
+1-ft_print_numbers
+____________________
+2-fizzbuzz
+3-rev_print
+4-aff_last_param
+5-ulstr
+6-ft_strcpy
+_____________________
+7-ft_strrev
+8-ft_atoi
+9-union
+_________________
+10- ft_range
+_________________
+11-ft_split
+12-sort_list
+13-count_alpha
+_________________
+14-str_maxlenoc
+15-count_island

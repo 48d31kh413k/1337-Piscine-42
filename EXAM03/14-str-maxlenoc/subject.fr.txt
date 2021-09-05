@@ -1,0 +1,29 @@
+Assignment name  : str_maxlenoc
+Expected files   : str_maxlenoc.c
+Allowed functions: write, malloc, free
+--------------------------------------------------------------------------------
+
+Écrire un programme qui prend en paramètres n chaînes de caractères et qui
+affiche, suivie d'un retour à la ligne, la plus grande chaîne de caractères
+incluse dans toutes les chaînes passées en paramètres. Si plusieurs chaînes
+correspondent, on affichera celle qui apparaît en premier dans le premier
+paramètre. A noter que "" est forcément dans toutes les chaînes.
+
+Si aucun paramètre n'est transmis, le programme doit afficher
+'\n'.
+
+Soit A et B des chaînes de caracteres. On dit que A
+est inclus dans B si A est une sous-chaîne de B ou
+si A et B sont identiques.
+
+Exemples :
+$>./str_maxlenoc ab bac abacabccabcb
+a
+$>./str_maxlenoc bonjour salut bonjour bonjour
+u
+$>./str_maxlenoc xoxAoxo xoxAox  oxAox oxo  A ooxAoxx oxooxo Axo | cat -e
+$
+$>./str_maxlenoc bosdsdfnjodur atehhellosd afkuonjosurafg headfgllosf fghellosag afdfbosnjourafg
+os
+$>./str_maxlenoc | cat -e
+$

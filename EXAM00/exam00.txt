@@ -1,0 +1,7 @@
+Exam 00: 6 exercices
+0-only_a   16points
+1-maff_revelalpha or 1-ft_countdown or 1-ft_print_numbers or 1-maff_alpha 16points -> 32/100
+2-hello 16points -> 48/100
+3-ft_swap 16points -> 64/100
+4- ft_strcmp or ft_strrev 16points -> 80/100
+5-ft_atoi 20points -> 100/100
