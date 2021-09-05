@@ -1,5 +1,5 @@
 # READ THIS BEFOR YOU PASS THE EXAM
--Logging into and setting up an exam
+-Logging into and setting up an exam \n
 1-Login with exam / exam at the login screen
 2-Open a terminal and type kinit <username> and your password after the prompt
 3-Type examshell in a terminal to begin
