@@ -1,5 +1,6 @@
 # 1337
  My solutions for the June Piscine 2021.
+ `Don't Copy, Learn.`
 # READ THIS BEFOR YOU PASS THE EXAM <br/>
 ### **Logging into and setting up an exam** <br/>
 1-Login with exam / exam at the login screen <br/>
