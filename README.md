@@ -56,4 +56,4 @@ for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-trai
 | Rush02 |   | | 
 | BSQ |   | | 
  
-`Good luck in your piscine.`
+`Enjoy coding and GOOD LUCK in your piscine.`
