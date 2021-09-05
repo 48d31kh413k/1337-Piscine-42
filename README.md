@@ -25,5 +25,5 @@
 **Week4:** C11 <br />
 -don't waste your time on rush02 and BSQ and C10, it's better to validate the previous days with 100% and prepare for the final exam. <br />
 
-**SLEEP WELL + EAT WELL = LIVE WELL = SUCCESS** <br />
+**SLEEP WELL + EAT WELL = LIVE WELL + SUCCESS** <br />
 **Good luck in your piscine.**
