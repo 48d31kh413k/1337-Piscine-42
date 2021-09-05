@@ -4,7 +4,7 @@
 2-Open a terminal and type kinit <username> and your password after the prompt <br />
 3-Type examshell in a terminal to begin <br /> 
 **-During the exam** <br />
-1-Don't forget to clean up, comment, remove your testing code, execs, and libraries prior to submission <br />
+1-Don't forget to clean up, comment, remove your testing code execs, and libraries prior to submission <br />
 2-Don't forget to push your code regularly in the rendu/<test question> directory to vogsphere before typing grademe and y in the examshell terminal <br />
 3-Read through all of the subjects and examples again before final submission <br />
 **-Before Exams** <br />
@@ -12,6 +12,7 @@
 2- You should Learn argc & argv & malloc and free before exam01/exam02 <br />
 3- You Should Learn Makefile Library Header Pointers-Functions before final exam <br />
 **You need 25 points to validate any exam**
+**You need 50 points to validate the days except rushes and bsq and C09 and C10 which it need 100%**
 # Piscine tips <br />
 **Week1:** Shell00, Shell01, C00, C01 <br />
 -don't waste your time on shell01 project, you must learn language C and work on c00 and C01, because the exam is on c Language. <br />
