@@ -43,9 +43,9 @@ int main()
 {
   t_list *head;
   head = (t_list*)malloc(sizeof(t_list));
-  int a =5;
-  int b=4;
-  int c = 9;
+  int a =1;
+  int b=3;
+  int c = 37;
   void *ptr=&a;
   void *pt = &b;
   void *p = &c;
