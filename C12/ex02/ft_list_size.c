@@ -21,7 +21,7 @@ void display(t_list *begin_list)
 {
   while(begin_list != NULL)
   {
-    printf("%d\n", *(int *)begin_list->data);
+    printf("%d", *(int *)begin_list->data);
     begin_list = begin_list->next;
   }
 }
@@ -42,9 +42,9 @@ t_list *ft_create_elem(void *data)
 int main() 
 {
   t_list *head = NULL;
-  int a = 5;
-  int b = 6;
-  int c = 3;
+  int a = 13;
+  int b = 3;
+  int c = 7;
   void *d = &a;
   void *e = &b;
   void *f = &c;
