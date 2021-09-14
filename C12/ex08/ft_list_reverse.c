@@ -46,14 +46,13 @@ void display(t_list *head)
 
 int main()
 {
-	int a = 10, b = 20, c = 30, x= 40, z = 50, l = 60, o = 70;
+	int a = 1, b = 3, c = 3, x= 7, z = 4, l = 2;
 	void*	d =&a;
 	void*	e =&b;
 	void*	f = &c;
 	void*	i = &x;
 	void*   y = &z;
 	void*	w = &l;
-	void*	q = &o;
 	t_list* head=(t_list*)malloc(sizeof(t_list));
 	head = ft_create_elem(d);
 	head->next = ft_create_elem(e);
@@ -61,7 +60,6 @@ int main()
 	head->next->next->next = ft_create_elem(i);
 	head->next->next->next->next = ft_create_elem(y);
 	head->next->next->next->next->next= ft_create_elem(w);
-	head->next->next->next->next->next->next = ft_create_elem(q);
 	display(head);
 	printf("\n");
 	ft_list_reverse(&head);
