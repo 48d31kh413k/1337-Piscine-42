@@ -34,14 +34,13 @@ t_list *ft_list_at(t_list *begin_list, unsigned int nbr)
 
 int main()
 {
-	int a = 5, b = 6, c = 9, x= 99, z = 100, l = 67, o = 48;
+	int a = 1, b = 3, c = 3, x= 7, z = 4, l = 2;
 	void*	d =&a;
 	void*	e =&b;
 	void*	f = &c;
 	void*	i = &x;
 	void*   y = &z;
 	void*	w = &l;
-	void*	q = &o;
 	t_list* head=(t_list*)malloc(sizeof(t_list));
 	head = ft_create_elem(d);
 	head->next = ft_create_elem(e);
@@ -49,13 +48,11 @@ int main()
 	head->next->next->next = ft_create_elem(i);
 	head->next->next->next->next = ft_create_elem(y);
 	head->next->next->next->next->next= ft_create_elem(w);
-	head->next->next->next->next->next->next = ft_create_elem(q);
 	printf("%d\n", *(int *)ft_list_at(head, 0)->data);
 	printf("%d\n", *(int *)ft_list_at(head, 1)->data);
 	printf("%d\n", *(int *)ft_list_at(head, 2)->data);
 	printf("%d\n", *(int *)ft_list_at(head, 3)->data);
 	printf("%d\n", *(int *)ft_list_at(head, 4)->data);
-	printf("%d\n", *(int *)ft_list_at(head, 5)->data);
-	printf("%d", *(int *)ft_list_at(head, 6)->data);
+	printf("%d", *(int *)ft_list_at(head, 5)->data);
 	return(0);
 } */
