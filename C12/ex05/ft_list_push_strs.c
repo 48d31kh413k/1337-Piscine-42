@@ -32,7 +32,7 @@ int        main(void)
     char    **strs;
 
     begin = (t_list *)malloc(sizeof(t_list));
-    strs = malloc(sizeof(char*) * 6);
+    strs = malloc(sizeof(char*) * 3);
     strs[0] = malloc(sizeof(char*) * 10);
     strs[1] = malloc(sizeof(char*) * 6);
     strs[0] = "Benguerir";
