@@ -15,7 +15,7 @@ t_list *ft_create_elem(void *data)
 	return (new_node);
 }
 
-t_list *ft_list_push_strs(int size, char **strs)
+/* t_list *ft_list_push_strs(int size, char **strs)
 {
 	t_list	*Node;
 
@@ -34,20 +34,14 @@ int        main(void)
     begin = (t_list *)malloc(sizeof(t_list));
     strs = malloc(sizeof(char*) * 6);
     strs[0] = malloc(sizeof(char*) * 5);
-    strs[1] = malloc(sizeof(char*) * 5);
-    strs[2] = malloc(sizeof(char*) * 5);
-    strs[3] = malloc(sizeof(char*) * 5);
-    strs[4] = malloc(sizeof(char*) * 5);
-    strs[0] = "abcd";
-    strs[1] = "lsdf";
-    strs[2] = "xyze";
-    strs[3] = "lsbt";
-    strs[4] = "esfd";
-    begin = ft_list_push_strs(5, strs);
+    strs[1] = malloc(sizeof(char*) * 7);
+    strs[0] = "Benguerir";
+    strs[1] = "1337 ";
+    begin = ft_list_push_strs(2, strs);
     while (begin)
     {
-        printf("%s\n", (char *)begin->data);
+        printf("%s", (char *)begin->data);
         begin = begin->next;
     }
     return (0);
-} 
+} */ 
