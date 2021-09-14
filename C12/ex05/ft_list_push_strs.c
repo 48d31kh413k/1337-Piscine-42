@@ -33,8 +33,8 @@ int        main(void)
 
     begin = (t_list *)malloc(sizeof(t_list));
     strs = malloc(sizeof(char*) * 6);
-    strs[0] = malloc(sizeof(char*) * 5);
-    strs[1] = malloc(sizeof(char*) * 7);
+    strs[0] = malloc(sizeof(char*) * 10);
+    strs[1] = malloc(sizeof(char*) * 6);
     strs[0] = "Benguerir";
     strs[1] = "1337 ";
     begin = ft_list_push_strs(2, strs);
