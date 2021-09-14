@@ -44,9 +44,9 @@ t_list *ft_create_elem(void *data)
 int main() 
 {
   t_list *head;
-  int a = 5;
-  int b = 12;
-  int c = 15;
+  int a = 4;
+  int b = 2;
+  int c = 1337;
   void* ptr = &a;
   void* pt = &b;
   void* p = &c;
