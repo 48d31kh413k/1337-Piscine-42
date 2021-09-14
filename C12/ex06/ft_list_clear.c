@@ -4,7 +4,7 @@
 
 /* void free_and_print(void *data)
 {
-	printf("%d\n", *(int *)data);
+	printf("%d", *(int *)data);
 	free(data);
 } */
 
@@ -37,8 +37,8 @@ int main()
 {
   t_list *head;
   t_list *first;
-  int a = 0;
-  int b =30;
+  int a = 13;
+  int b = 37;
   void *pt = &b;
   void* ptr = &a;
   head = (t_list *)malloc(sizeof(t_list));
