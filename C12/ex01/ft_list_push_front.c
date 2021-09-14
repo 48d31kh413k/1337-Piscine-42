@@ -32,7 +32,7 @@ void display(t_list* n)
 {
   while(n != NULL)
   {
-    printf("%d\n",*(int *)n->data);
+    printf("%d",*(int *)n->data);
     n = n->next;
   }
 }
@@ -43,9 +43,9 @@ int main()
 
   head = (t_list *)malloc(sizeof(t_list));
   head = NULL;
-  int a = 5;
-  int b = 10;
-  int c = 12;
+  int a = 13;
+  int b = 3;
+  int c = 7;
   void *ptr = &a;
   void *p = &b;
   void *pt = &c;
