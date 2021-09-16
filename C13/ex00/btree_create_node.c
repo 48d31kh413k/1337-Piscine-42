@@ -1,6 +1,5 @@
 #include "ft_btree.h"
 #include <stdlib.h>
-#include <stdio.h>
 
 t_btree	*btree_create_node(void	*item)
 {
