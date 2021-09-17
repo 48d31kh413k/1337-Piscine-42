@@ -47,7 +47,7 @@ for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-trai
 | C10 | [subject.fr](./subjects/c10.pdf)  | | 
 | C11 | [subject.fr](./subjects/c11.pdf)  |[100%](./C11) | 
 | C12 | [subject.fr](./subjects/C12.pdf)  | [not rated](./C12) | 
-| C13 | [subject.fr](./subjects/c13.pdf)  | | 
+| C13 | [subject.fr](./subjects/c13.pdf)  |[not rated](./C13) | 
 | Exam01 | [subject](./EXAM01/EXAM01.txt)  |[solution](./EXAM01) | 
 | Exam00 | [subject](./EXAM00/exam00.txt)  |[solution](./EXAM00) | 
 | Exam02 | [subject](./EXAM02/exam02.txt)  |[solution](./EXAM02) | 
