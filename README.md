@@ -4,7 +4,7 @@
 # READ THIS BEFORE YOU PASS THE EXAM <br/>
 ### **Logging into and setting up an exam** <br/>
 1-Login with exam / exam at the login screen <br/>
-2-Open a terminal and type kinit <username> and your password after the prompt <br />
+2-Open a terminal and type kinit username and your password after the prompt <br />
 3-Type examshell in a terminal to begin <br /> 
 ### **During the exam** <br />
 1-Don't forget to clean up, comment, remove your testing code execs, and libraries prior to submission <br />
