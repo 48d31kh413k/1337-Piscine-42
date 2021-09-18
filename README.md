@@ -44,7 +44,7 @@ for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-trai
 | C07 | [subject.fr](./subjects/C07.pdf)  | [100%](./C07)| 
 | C08 | [subject.fr](./subjects/c08.pdf)  |[100%](./C08) |
 | C09 | [subject.fr](./subjects/c09.pdf)  | [100%](./C09)| 
-| C10 | [subject.fr](./subjects/c10.pdf)  | | 
+| C10 | [subject.fr](./subjects/c10.pdf)  |[not rated](./C10) | 
 | C11 | [subject.fr](./subjects/c11.pdf)  |[100%](./C11) | 
 | C12 | [subject.fr](./subjects/C12.pdf)  | [not rated](./C12) | 
 | C13 | [subject.fr](./subjects/c13.pdf)  |[not rated](./C13) | 
