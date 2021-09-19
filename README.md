@@ -1,5 +1,8 @@
 # 1337
  My solutions for the June Piscine 2021. <br />
+  If you encounter an error or an incorrect output, you can: <br/>
+    -Open an issue on github. <br/>
+   If you have any tips I would like to hear, any feedback is appreciated. Thank you. <br/>
  `Don't Copy, Learn.`
 # READ THIS BEFORE YOU PASS THE EXAM <br/>
 ### **Logging into and setting up an exam** <br/>
