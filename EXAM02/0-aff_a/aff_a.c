@@ -12,6 +12,7 @@ int		main(int ac, char **av)
 			if (av[1][i] == 'a')
 			{
 				write(1, "a", 1);
+				break ;
 			}
 			i++;
 		}
