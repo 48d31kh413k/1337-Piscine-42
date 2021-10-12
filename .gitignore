@@ -52,4 +52,4 @@ Mkfile.old
 dkms.conf
 
 # Hidden Folders
-C10/ex00/*.c
+C10/
