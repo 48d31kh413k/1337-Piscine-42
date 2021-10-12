@@ -50,6 +50,3 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-
-# Hidden Folders
-C10/
