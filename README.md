@@ -60,3 +60,4 @@ for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-trai
 | BSQ | [subject.fr](./subjects/bsq.pdf)  | | 
  
 `Enjoy coding and GOOD LUCK in your piscine.`
+![](https://komarev.com/ghpvc/?username=48d31kh413k)
