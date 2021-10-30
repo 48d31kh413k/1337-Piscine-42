@@ -3,7 +3,8 @@
   Please open an issue on github if you find anything incorrect.<br/>
   If you have any tips I would like to hear, any feedback is appreciated. Thank you. <br/>
  `Don't Copy, Learn.` <br />
- ![](https://komarev.com/ghpvc/?username=48d31kh413k)
+ ![](https://komarev.com/ghpvc/?username=your-github-username&label=Repository+ views)
+
 # READ THIS BEFORE YOU PASS THE EXAM <br/>
 ### **Logging into and setting up an exam** <br/>
 1-Login with exam / exam at the login screen <br/>
