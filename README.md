@@ -34,31 +34,31 @@
 for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-training/ <br />
 `SLEEP WELL + EAT WELL = LIVE WELL + SUCCESS` <br />
  # Table of Content
-| Projects      | PDF          | Solutions  |
-| :--------------:|:------------:  | :----------:|
-| Shell00 | [subject.fr](./subjects/Shell00.pdf)|[100%](./Shell00) |
-| Shell01 | [subject.fr](./subjects/Shell01.pdf)    | [100%](./Shell01)  |
-| C00 | [subject.fr](./subjects/C00.pdf)  |[100%](./C00) | 
-| C01 | [subject.fr](./subjects/c01.pdf)  |[100%](./C01) | 
-| C02 | [subject.fr](./subjects/c02.pdf)  |[100%](./C02) | 
-| C03 | [subject.fr](./subjects/c03.pdf)  | [100%](./C03) | 
-| C04 | [subject.fr](./subjects/C04.pdf)  | [100%](./C04)| 
-| C05 | [subject.fr](./subjects/C05.pdf)   | [80%](./C05)| 
-| C06 | [subject.fr](./subjects/C06.pdf)   |[100%](./C06) | 
-| C07 | [subject.fr](./subjects/C07.pdf)  | [100%](./C07)| 
-| C08 | [subject.fr](./subjects/c08.pdf)  |[100%](./C08) |
-| C09 | [subject.fr](./subjects/c09.pdf)  | [100%](./C09)| 
-| C10 | [subject.fr](./subjects/c10.pdf)  |[not rated](./C10) | 
-| C11 | [subject.fr](./subjects/c11.pdf)  |[100%](./C11) | 
-| C12 | [subject.fr](./subjects/C12.pdf)  | [not rated](./C12) | 
-| C13 | [subject.fr](./subjects/c13.pdf)  |[not rated](./C13) | 
-| Exam01 | [subject](./EXAM01/EXAM01.txt)  |[solution](./EXAM01) | 
-| Exam00 | [subject](./EXAM00/exam00.txt)  |[solution](./EXAM00) | 
-| Exam02 | [subject](./EXAM02/exam02.txt)  |[solution](./EXAM02) | 
-| Exam03 | [subject](./EXAM03/EXAM.txt)  | [solution](./EXAM03)| 
-| Rush01 | [subject.fr](./subjects/rush01.pdf)  | | 
-| Rush00 | [subject.fr](./subjects/Rush00.pdf)  |[120%](./Rush00) |
-| Rush02 |  [subject.fr](./subjects/rush02.pdf) | | 
-| BSQ | [subject.fr](./subjects/bsq.pdf)  | | 
+| Projects      | Solutions  |
+| :--------------:| :----------:|
+| Shell00 | [100%](./Shell00) |
+| Shell01 |  [100%](./Shell01)  |
+| C00 | [100%](./C00) | 
+| C01 | [100%](./C01) | 
+| C02 | [100%](./C02) | 
+| C03 |  [100%](./C03) | 
+| C04 |  [100%](./C04)| 
+| C05 | [80%](./C05)| 
+| C06 | [100%](./C06) | 
+| C07 |  [100%](./C07)| 
+| C08 | [100%](./C08) |
+| C09 |  [100%](./C09)| 
+| C10 | [not rated](./C10) | 
+| C11 | [100%](./C11) | 
+| C12 |  [not rated](./C12) | 
+| C13 | [not rated](./C13) | 
+| Exam01 | [solution](./EXAM01) | 
+| Exam00 | [solution](./EXAM00) | 
+| Exam02 | [solution](./EXAM02) | 
+| Exam03 |  [solution](./EXAM03)| 
+| Rush01 | | 
+| Rush00 | [120%](./Rush00) |
+| Rush02 | | 
+| BSQ | | 
  
 `Enjoy coding and GOOD LUCK in your piscine.`
