@@ -8,7 +8,7 @@ void	last_word(char *str)
 	while(str[i] == '\t' || str[i] == 32)
 		i--;
 	while (i > 0)
-	{	if(str[i] == 32 && str[i] == '\t')
+	{	if(str[i] == 32 || str[i] == '\t')
 			break;
 		i--;
 	}
