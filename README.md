@@ -1,6 +1,9 @@
 # 1337
  My solutions for the June Piscine 2021. <br />
   Please open an issue on github if you find anything incorrect.<br/>
+  If you like my work and want to say thanks, or encourage me to do more, you can buy me a coffee!<br/>
+  Contribute to my coffee fund with any amount you are comfortable to pay.<br/>
+  https://www.buymeacoffee.com/48d31kh413k <br/>
   If you have any tips I would like to hear, any feedback is appreciated. Thank you. <br/>
  `Don't Copy, Learn.` <br />
 
